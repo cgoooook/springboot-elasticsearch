@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.com.immortals.baymax.springboot.elasticsearch.configuration.BaymaxElasticsearchAutoConfiguration

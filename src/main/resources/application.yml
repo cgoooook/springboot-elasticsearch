@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: baymax-es-demo
+
+baymax:
+  elasticsearch:
+    urls: 127.0.0.1:9300
+    clusterName: baymax
